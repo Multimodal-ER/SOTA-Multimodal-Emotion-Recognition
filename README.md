@@ -33,7 +33,7 @@ Emotions are represented by discrete affective states. This approach is the most
 
   <p font="italic" align="center">  
 
-  <img src="images/Plutchik-wheel-eng.png" align="center" width="400" height="400">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Plutchik-wheel.svg/591px-Plutchik-wheel.svg.png" align="center" width="400" height="400">
 
   </p>
 
